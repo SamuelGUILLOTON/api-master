@@ -1,6 +1,6 @@
-Pour initialiser le projet : npm i 
-Pour lancer la ddb : npm run start:db:dev
-Pour lancer le serveur : npm run start:dev
+- Pour initialiser le projet : npm i   
+- Pour lancer la ddb : npm run start:db:dev  
+- Pour lancer le serveur : npm run start:dev  
 
 - [x] L'utilisateur doit avoir un compte ou créer un compte pour utiliser le service
 - [x] Possibilité d'uploader, télécharger, modifier et supprimer les fichiers
